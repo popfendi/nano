@@ -7,12 +7,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lonng/nano"
-	"github.com/lonng/nano/component"
-	"github.com/lonng/nano/pipeline"
-	"github.com/lonng/nano/scheduler"
-	"github.com/lonng/nano/serialize/json"
-	"github.com/lonng/nano/session"
+	"github.com/popfendi/nano"
+	"github.com/popfendi/nano/component"
+	"github.com/popfendi/nano/pipeline"
+	"github.com/popfendi/nano/scheduler"
+	"github.com/popfendi/nano/serialize/json"
+	"github.com/popfendi/nano/session"
 )
 
 type (

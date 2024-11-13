@@ -26,9 +26,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lonng/nano/serialize"
-	"github.com/lonng/nano/serialize/protobuf"
-	"github.com/lonng/nano/session"
+	"github.com/popfendi/nano/serialize"
+	"github.com/popfendi/nano/serialize/protobuf"
+	"github.com/popfendi/nano/session"
 	"google.golang.org/grpc"
 )
 

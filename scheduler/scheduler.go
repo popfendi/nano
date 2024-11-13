@@ -26,8 +26,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/lonng/nano/internal/env"
-	"github.com/lonng/nano/internal/log"
+	"github.com/popfendi/nano/internal/env"
+	"github.com/popfendi/nano/internal/log"
 )
 
 const (

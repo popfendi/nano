@@ -7,14 +7,14 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/lonng/nano"
-	"github.com/lonng/nano/cluster"
-	"github.com/lonng/nano/examples/cluster/chat"
-	"github.com/lonng/nano/examples/cluster/gate"
-	"github.com/lonng/nano/examples/cluster/master"
-	"github.com/lonng/nano/serialize/json"
-	"github.com/lonng/nano/session"
 	"github.com/pingcap/errors"
+	"github.com/popfendi/nano"
+	"github.com/popfendi/nano/cluster"
+	"github.com/popfendi/nano/examples/cluster/chat"
+	"github.com/popfendi/nano/examples/cluster/gate"
+	"github.com/popfendi/nano/examples/cluster/master"
+	"github.com/popfendi/nano/serialize/json"
+	"github.com/popfendi/nano/session"
 	"github.com/urfave/cli"
 )
 

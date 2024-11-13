@@ -3,10 +3,10 @@ package tworoom
 import (
 	"log"
 
-	"github.com/lonng/nano"
-	"github.com/lonng/nano/component"
-	"github.com/lonng/nano/examples/cluster/protocol"
-	"github.com/lonng/nano/session"
+	"github.com/popfendi/nano"
+	"github.com/popfendi/nano/component"
+	"github.com/popfendi/nano/examples/cluster/protocol"
+	"github.com/popfendi/nano/session"
 )
 
 type ChatRoomService struct {
